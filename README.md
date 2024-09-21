@@ -60,7 +60,7 @@ PU News App is a mobile application designed to provide the latest news from Pan
 
    ```
 
-## screenshots of App 
+## screenshots of App (Video is available on my Linkedin profile)
 ![WhatsApp Image 2024-09-11 at 11 05 46 PM](https://github.com/user-attachments/assets/a4304776-73c7-4594-a6d4-efea9c802122)
 ![WhatsApp Image 2024-09-11 at 11 05 47 PM](https://github.com/user-attachments/assets/9142e733-05a6-4c31-84cb-8103b4564bd3)
 ![WhatsApp Image 2024-09-11 at 11 05 47 PM (1)](https://github.com/user-attachments/assets/a10df90d-935a-4d20-b41e-52a43e81a249)
